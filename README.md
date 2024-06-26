@@ -1,4 +1,4 @@
-##🚀 Day 4 of my SQL Challenge: Mastering Joins! 🚀
+🚀 Day 4 of my SQL Challenge: Mastering Joins! 🚀
 
 Today, I dove deep into the world of SQL joins, a crucial skill for any data enthusiast. Here's what I covered:
 
